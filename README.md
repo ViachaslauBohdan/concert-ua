@@ -2,11 +2,11 @@
 
 ### Jerry Heil
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jerry_Heil%2C_Eurovision_2024_Send-off_07_%28cropped%29.jpeg/330px-Jerry_Heil%2C_Eurovision_2024_Send-off_07_%28cropped%29.jpeg" width="32%" alt="Jerry Heil — 1/3" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Jerry_Heil_Toronto.jpg/330px-Jerry_Heil_Toronto.jpg" width="32%" alt="Jerry Heil — 2/3" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alyona_alyona_and_Jerry_Heil%2C_final%2C%2C_Eurovision_2024_07.jpg/330px-Alyona_alyona_and_Jerry_Heil%2C_final%2C%2C_Eurovision_2024_07.jpg" width="32%" alt="Jerry Heil — 3/3" />
-</p>
+![Jerry Heil](https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&h=600&q=80)
+
+![Jerry Heil](https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=600&h=600&q=80)
+
+![Jerry Heil](https://images.unsplash.com/photo-1497032205916-ac775f0649ae?auto=format&fit=crop&w=600&h=600&q=80)
 
 - **Ім’я:** Jerry Heil
 - **Рівень активності:** 🔥 Топ — Україна, Європа, фестивальна лінійка
@@ -36,11 +36,11 @@
 
 ### DOROFEEVA
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nadya_Dorofeeva_2020_Independence_Day_of_Ukraine_1_%28cropped%29.jpg/330px-Nadya_Dorofeeva_2020_Independence_Day_of_Ukraine_1_%28cropped%29.jpg" width="32%" alt="DOROFEEVA — 1/3" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nadya_Dorofeeva_2017_%28cropped%29.jpg/330px-Nadya_Dorofeeva_2017_%28cropped%29.jpg" width="32%" alt="DOROFEEVA — 2/3" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nadya_Dorofeeva_%26_Vladimir_Dantes_M1_Music_Awards_2019_%28cropped%29.jpg/330px-Nadya_Dorofeeva_%26_Vladimir_Dantes_M1_Music_Awards_2019_%28cropped%29.jpg" width="32%" alt="DOROFEEVA — 3/3" />
-</p>
+![DOROFEEVA](https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=600&h=600&q=80)
+
+![DOROFEEVA](https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=600&h=600&q=80)
+
+![DOROFEEVA](https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&h=600&q=80)
 
 - **Ім’я:** DOROFEEVA
 - **Рівень активності:** 🔥 Дуже високий — стабільні релізи й гастролі
@@ -87,11 +87,11 @@
 
 ### Анна Тринчер
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anna_Trincher.jpg/330px-Anna_Trincher.jpg" width="32%" alt="Анна Тринчер — 1/3" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Anna_Trincher_Feb._2020.jpg/330px-Anna_Trincher_Feb._2020.jpg" width="32%" alt="Анна Тринчер — 2/3" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Anna_Trincher_at_stage_of_JESC_2015_cropped.png/330px-Anna_Trincher_at_stage_of_JESC_2015_cropped.png" width="32%" alt="Анна Тринчер — 3/3" />
-</p>
+![Анна Тринчер](https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=600&h=600&q=80)
+
+![Анна Тринчер](https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=600&h=600&q=80)
+
+![Анна Тринчер](https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&h=600&q=80)
 
 - **Ім’я:** Анна Тринчер
 - **Рівень активності:** 🔼 Високий — щільні тури Україною
@@ -104,13 +104,11 @@
 
 ### KOLA
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kola2024.jpg/330px-Kola2024.jpg" width="32%" alt="KOLA — 1/3" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kola-Israel.jpg/330px-Kola-Israel.jpg" width="32%" alt="KOLA — 2/3" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kola2024.jpg/960px-Kola2024.jpg" width="32%" alt="KOLA — 3/3 (той самий кадр, більший масштаб)" />
-</p>
+![KOLA](https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=600&h=600&q=80)
 
-*На Commons зараз мало вільних портретів — третій кадр: збільшена мініатюра `Kola2024.jpg`.*
+![KOLA](https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=600&h=600&q=80)
+
+![KOLA](https://images.unsplash.com/photo-1521335629791-ce4aec67dd53?auto=format&fit=crop&w=600&h=600&q=80)
 
 - **Ім’я:** KOLA
 - **Рівень активності:** 🔼 Середній → зростаючий — прориви й стабільні релізи
@@ -176,7 +174,11 @@
 
 ### MAMARIKA
 
-![MAMARIKA — ілюстративне фото (Unsplash)](https://source.unsplash.com/600x600/?female,singer,concert)
+![MAMARIKA](https://images.unsplash.com/photo-1487180144351-b8472da7d491?auto=format&fit=crop&w=600&h=600&q=80)
+
+![MAMARIKA](https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=600&h=600&q=80)
+
+![MAMARIKA](https://images.unsplash.com/photo-1515165562835-c3b8c3f96a2d?auto=format&fit=crop&w=600&h=600&q=80)
 
 - **Ім’я:** MAMARIKA
 - **Рівень активності:** 🔼 Середній / стабільний — часто виступає в Україні; періодично концерти в Європі
@@ -191,11 +193,11 @@
 
 ### YAKTAK
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%D0%A1%D0%BF%D1%96%D0%B2%D0%B0%D0%BA_YAKTAK_%28%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%B0%D1%80%D0%BF%D1%83%D0%BA%29.jpg/330px-%D0%A1%D0%BF%D1%96%D0%B2%D0%B0%D0%BA_YAKTAK_%28%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%B0%D1%80%D0%BF%D1%83%D0%BA%29.jpg" width="32%" alt="YAKTAK — 1/3" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/YAKTAK_%28%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%B0%D1%80%D0%BF%D1%83%D0%BA%29.jpg/330px-YAKTAK_%28%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%B0%D1%80%D0%BF%D1%83%D0%BA%29.jpg" width="32%" alt="YAKTAK — 2/3" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/YAKTAK1.jpg/330px-YAKTAK1.jpg" width="32%" alt="YAKTAK — 3/3" />
-</p>
+![YAKTAK](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?auto=format&fit=crop&w=600&h=600&q=80)
+
+![YAKTAK](https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=600&h=600&q=80)
+
+![YAKTAK](https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=600&h=600&q=80)
 
 - **Ім’я:** YAKTAK
 - **Рівень активності:** 🔥 Дуже високий — і стріми, і сцена «б’ють»
@@ -208,11 +210,11 @@
 
 ### Artem Pivovarov
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Artem_Pyvovarov%2C_UNICEF_Youth_Awards_Ceremony_%28cropped_02%29.jpg/330px-Artem_Pyvovarov%2C_UNICEF_Youth_Awards_Ceremony_%28cropped_02%29.jpg" width="32%" alt="Artem Pivovarov — 1/3" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Artem_Pyvovarov_MRPL_City_2018.jpg/330px-Artem_Pyvovarov_MRPL_City_2018.jpg" width="32%" alt="Artem Pivovarov — 2/3" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Artem_Pivovarov_October_2016.jpg/330px-Artem_Pivovarov_October_2016.jpg" width="32%" alt="Artem Pivovarov — 3/3" />
-</p>
+![Artem Pivovarov](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&h=600&q=80)
+
+![Artem Pivovarov](https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=600&h=600&q=80)
+
+![Artem Pivovarov](https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&h=600&q=80)
 
 - **Ім’я:** Artem Pivovarov
 - **Рівень активності:** 🔥 Топ — транскордонна «headline»-енергія
@@ -276,7 +278,11 @@
 
 ### Okean Elzy
 
-![Okean Elzy — ілюстративне фото (Unsplash)](https://source.unsplash.com/600x600/?rock,band,concert)
+![Okean Elzy](https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?auto=format&fit=crop&w=600&h=600&q=80)
+
+![Okean Elzy](https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=600&h=600&q=80)
+
+![Okean Elzy](https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=600&h=600&q=80)
 
 - **Ім’я:** Okean Elzy *(гурт)*
 - **Рівень активності:** 🔥 Топ — стадіони / великі тури; один із найсильніших концертних колективів; великі тури Україна + Європа
@@ -308,4 +314,4 @@
 
 ---
 
-🎧 *Посилання подані як текстові мітки, не «голі» URL — зручніше на телефоні й у GitHub. Галереї з трьох зображень тягнуться зі стабільних CDN (Commons / YouTube). Для **MAMARIKA** та **Okean Elzy** — одне Markdown-фото (Unsplash); прев’ю може змінюватися між перезавантаженнями.*
+🎧 *Посилання подані як текстові мітки, не «голі» URL. Частина блоків — три Markdown-фото (Unsplash, кадр 600×600). Інші артисти поки з HTML-галереєю (Commons / YouTube). Ілюстративні фото не завжди зображають самого артиста — за потреби замініть на офіційні з Instagram / прес-паку.*
