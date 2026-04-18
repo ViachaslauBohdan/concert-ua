@@ -27,7 +27,7 @@
 
 ### alyona alyona
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Alyona_alyona.jpg" alt="alyona alyona" width="400" />
+<img src="assets/alyona-alyona.png" alt="alyona alyona" width="400" />
 
 - 📍 **Місце народження:** Капітанівка, Україна
 - 📍 **Поточне місце проживання:** Київ
