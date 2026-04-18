@@ -129,7 +129,7 @@
 
 ### Olya Polyakova
 
-![Olya Polyakova](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2022_Olya_Polyakova_-_by_2eight_-_ZSC6310_%28cropped%29.jpg/400px-2022_Olya_Polyakova_-_by_2eight_-_ZSC6310_%28cropped%29.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/2022_Olya_Polyakova_-_by_2eight_-_ZSC6310_%28cropped%29.jpg" alt="Olya Polyakova" width="400" />
 
 - 📍 **Місце народження:** Вінниця
 - 📍 **Поточне місце проживання:** Київ
@@ -146,7 +146,7 @@
 
 ### Zlata Ognevich
 
-![Zlata Ognevich](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zlata_Ognevich_March_2020.jpg/400px-Zlata_Ognevich_March_2020.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Zlata_Ognevich_March_2020.jpg" alt="Zlata Ognevich" width="400" />
 
 - 📍 **Місце народження:** Мурманськ
 - 📍 **Поточне місце проживання:** Київ
@@ -182,7 +182,7 @@
 
 ### YAKTAK
 
-![YAKTAK](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%D0%A1%D0%BF%D1%96%D0%B2%D0%B0%D0%BA_YAKTAK_%28%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%B0%D1%80%D0%BF%D1%83%D0%BA%29.jpg/400px-%D0%A1%D0%BF%D1%96%D0%B2%D0%B0%D0%BA_YAKTAK_%28%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%B0%D1%80%D0%BF%D1%83%D0%BA%29.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/%D0%A1%D0%BF%D1%96%D0%B2%D0%B0%D0%BA_YAKTAK_%28%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%B0%D1%80%D0%BF%D1%83%D0%BA%29.jpg" alt="YAKTAK" width="400" />
 
 - 📍 **Місце народження:** Волинська область
 - 📍 **Поточне місце проживання:** Публічно не розкривається
@@ -199,7 +199,7 @@
 
 ### Artem Pivovarov
 
-![Artem Pivovarov](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Artem_Pyvovarov%2C_UNICEF_Youth_Awards_Ceremony_%28cropped_02%29.jpg/400px-Artem_Pyvovarov%2C_UNICEF_Youth_Awards_Ceremony_%28cropped_02%29.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Artem_Pyvovarov%2C_UNICEF_Youth_Awards_Ceremony_%28cropped_02%29.jpg" alt="Artem Pivovarov" width="400" />
 
 - 📍 **Місце народження:** Вовчанськ
 - 📍 **Поточне місце проживання:** Київ
@@ -216,7 +216,7 @@
 
 ### MÉLOVIN
 
-![MÉLOVIN](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/M%C3%A9lovin_%283%29_20180510_EuroVisionary_%28cropped%29.jpg/400px-M%C3%A9lovin_%283%29_20180510_EuroVisionary_%28cropped%29.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/M%C3%A9lovin_%283%29_20180510_EuroVisionary_%28cropped%29.jpg" alt="MÉLOVIN" width="400" />
 
 - 📍 **Місце народження:** Одеса
 - 📍 **Поточне місце проживання:** Київ
@@ -250,7 +250,7 @@
 
 ### Kalush Orchestra
 
-![Kalush Orchestra](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Eurovision_2022_-_Semi-final_1_-_Ukraine_-_Kalush_Orchestra_%2802%29.jpg/400px-Eurovision_2022_-_Semi-final_1_-_Ukraine_-_Kalush_Orchestra_%2802%29.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Eurovision_2022_-_Semi-final_1_-_Ukraine_-_Kalush_Orchestra_%2802%29.jpg" alt="Kalush Orchestra" width="400" />
 
 - 📍 **Засновано в:** Калуші
 - 📍 **База:** Київ
@@ -267,7 +267,7 @@
 
 ### Okean Elzy
 
-![Okean Elzy](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/OKEAN_TITULNI_2016.jpg/400px-OKEAN_TITULNI_2016.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/OKEAN_TITULNI_2016.jpg" alt="Okean Elzy" width="400" />
 
 - 📍 **Засновано в:** Львові
 - 📍 **База:** Київ
