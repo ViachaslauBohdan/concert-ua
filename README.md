@@ -95,7 +95,7 @@
 
 ### KOLA
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Kola2024.jpg" alt="KOLA" width="400" />
+<img src="assets/kola.png" alt="KOLA" width="400" />
 
 - 📍 **Місце народження:** Харків
 - 📍 **Поточне місце проживання:** Київ
