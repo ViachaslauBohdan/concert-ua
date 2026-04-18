@@ -61,7 +61,7 @@
 
 ### Tina Karol
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Fumio_Kishida_and_Tina_Karol_at_the_Japanese_Kantei_in_2022_%283%29_%28cropped%29.jpg" alt="Tina Karol" width="400" />
+<img src="assets/tina-karol.png" alt="Tina Karol" width="400" />
 
 - 📍 **Місце народження:** Магадан
 - 📍 **Поточне місце проживання:** Київ
