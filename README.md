@@ -10,7 +10,7 @@
 
 ### Jerry Heil
 
-![Jerry Heil](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jerry_Heil%2C_Eurovision_2024_Send-off_07_%28cropped%29.jpeg/400px-Jerry_Heil%2C_Eurovision_2024_Send-off_07_%28cropped%29.jpeg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Jerry_Heil%2C_Eurovision_2024_Send-off_07_%28cropped%29.jpeg" alt="Jerry Heil" width="400" />
 
 - 📍 **Місце народження:** Васильків, Україна
 - 📍 **Поточне місце проживання:** Публічно не розкривається *(часто пов'язують з Києвом / Європою)*
