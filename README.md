@@ -112,7 +112,7 @@
 
 ### FIЇNKA
 
-![FIЇNKA](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fi%D1%97nka_Feb_2023.png/400px-Fi%D1%97nka_Feb_2023.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Fi%D1%97nka_Feb_2023.png" alt="FIЇNKA" width="400" />
 
 - 📍 **Місце народження:** Надвірна
 - 📍 **Поточне місце проживання:** Івано-Франківська область
