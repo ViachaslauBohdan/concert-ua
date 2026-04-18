@@ -1,23 +1,23 @@
-# Ukrainian Artists Concert Tracker
+# Трекер концертів українських артистів
 
-🎤 **One page, many stages.** A scannable roster of Ukrainian artists and bands: where they’re from, how active they are, flagship tracks, and one-tap listening.
+🎤 **Одна сторінка, багато сцен.** Зручна добірка українських артистів і гуртів: звідки вони, наскільки активні, які мають хіти та де слухати.
 
-📊 **Reality check:** tour dates and residences shift — always confirm on official channels before you buy tickets.
+📊 **Важливо:** дати концертів і місце проживання можуть змінюватися — перед купівлею квитків перевіряйте офіційні сторінки.
 
 ---
 
-## 🎧 Female artists
+## 🎧 Співачки
 
 ### Jerry Heil
 
-![Jerry Heil](https://upload.wikimedia.org/wikipedia/commons/b/b3/Jerry_Heil%2C_Eurovision_2024_Send-off_07_%28cropped%29.jpeg)
+![Jerry Heil](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jerry_Heil%2C_Eurovision_2024_Send-off_07_%28cropped%29.jpeg/400px-Jerry_Heil%2C_Eurovision_2024_Send-off_07_%28cropped%29.jpeg)
 
-- 📍 **Birthplace:** Vasylkiv, Ukraine
-- 📍 **Current residence:** Not publicly disclosed *(often associated with Kyiv / Europe)*
-- 📊 **Activity level:** TOP — Ukraine + Europe
-- 🎧 **Top song:** *Teresa & Maria*
+- 📍 **Місце народження:** Васильків, Україна
+- 📍 **Поточне місце проживання:** Публічно не розкривається *(часто пов'язують з Києвом / Європою)*
+- 📊 **Рівень активності:** ТОП — Україна + Європа
+- 🎧 **Топ-пісня:** *Teresa & Maria*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr)
 - [Apple Music](https://music.apple.com/search?term=Jerry%20Heil)
@@ -27,14 +27,14 @@
 
 ### alyona alyona
 
-![alyona alyona](https://upload.wikimedia.org/wikipedia/commons/d/d9/Alyona_alyona.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Alyona_alyona.jpg" alt="alyona alyona" width="400" />
 
-- 📍 **Birthplace:** Kapitanivka, Ukraine
-- 📍 **Current residence:** Kyiv
-- 📊 **Activity level:** TOP
-- 🎧 **Top song:** *Teresa & Maria*
+- 📍 **Місце народження:** Капітанівка, Україна
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** ТОП
+- 🎧 **Топ-пісня:** *Teresa & Maria*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8)
 - [Apple Music](https://music.apple.com/search?term=alyona%20alyona)
@@ -44,14 +44,14 @@
 
 ### DOROFEEVA
 
-![DOROFEEVA](https://upload.wikimedia.org/wikipedia/commons/a/a5/%D0%9D%D0%B0%D0%B4%D1%96%D1%8F_%D0%94%D0%BE%D1%80%D0%BE%D1%84%D1%94%D1%94%D0%B2%D0%B0.jpg)
+![DOROFEEVA](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/%D0%9D%D0%B0%D0%B4%D1%96%D1%8F_%D0%94%D0%BE%D1%80%D0%BE%D1%84%D1%94%D1%94%D0%B2%D0%B0.jpg/400px-%D0%9D%D0%B0%D0%B4%D1%96%D1%8F_%D0%94%D0%BE%D1%80%D0%BE%D1%84%D1%94%D1%94%D0%B2%D0%B0.jpg)
 
-- 📍 **Birthplace:** Simferopol, Ukraine
-- 📍 **Current residence:** Kyiv
-- 📊 **Activity level:** High
-- 🎧 **Top song:** *Крапають*
+- 📍 **Місце народження:** Сімферополь, Україна
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** Високий
+- 🎧 **Топ-пісня:** *Крапають*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/Dorofeeva)
 - [Apple Music](https://music.apple.com/search?term=Dorofeeva)
@@ -61,14 +61,14 @@
 
 ### Tina Karol
 
-![Tina Karol](https://upload.wikimedia.org/wikipedia/commons/3/30/Fumio_Kishida_and_Tina_Karol_at_the_Japanese_Kantei_in_2022_%283%29_%28cropped%29.jpg)
+![Tina Karol](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fumio_Kishida_and_Tina_Karol_at_the_Japanese_Kantei_in_2022_%283%29_%28cropped%29.jpg/400px-Fumio_Kishida_and_Tina_Karol_at_the_Japanese_Kantei_in_2022_%283%29_%28cropped%29.jpg)
 
-- 📍 **Birthplace:** Magadan
-- 📍 **Current residence:** Kyiv
-- 📊 **Activity level:** High
-- 🎧 **Top song:** *Ніжно*
+- 📍 **Місце народження:** Магадан
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** Високий
+- 🎧 **Топ-пісня:** *Ніжно*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/Tina%20Karol)
 - [Apple Music](https://music.apple.com/search?term=Tina%20Karol)
@@ -78,14 +78,14 @@
 
 ### Anna Trincher
 
-![Anna Trincher](https://upload.wikimedia.org/wikipedia/commons/9/9e/Anna_Trincher.jpg)
+![Anna Trincher](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anna_Trincher.jpg/400px-Anna_Trincher.jpg)
 
-- 📍 **Birthplace:** Kyiv
-- 📍 **Current residence:** Kyiv
-- 📊 **Activity level:** High — active touring
-- 🎧 **Top song:** *Бар за баром*
+- 📍 **Місце народження:** Київ
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** Високий — активні тури
+- 🎧 **Топ-пісня:** *Бар за баром*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/Anna%20Trincher)
 - [Apple Music](https://music.apple.com/search?term=Anna%20Trincher)
@@ -95,14 +95,14 @@
 
 ### KOLA
 
-![KOLA](https://upload.wikimedia.org/wikipedia/commons/c/c6/Kola2024.jpg)
+![KOLA](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kola2024.jpg/400px-Kola2024.jpg)
 
-- 📍 **Birthplace:** Kharkiv
-- 📍 **Current residence:** Kyiv
-- 📊 **Activity level:** Growing
-- 🎧 **Top song:** *Біля серця*
+- 📍 **Місце народження:** Харків
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** Зростає
+- 🎧 **Топ-пісня:** *Біля серця*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/KOLA)
 - [Apple Music](https://music.apple.com/search?term=KOLA)
@@ -112,14 +112,14 @@
 
 ### FIЇNKA
 
-![FIЇNKA](https://upload.wikimedia.org/wikipedia/commons/5/55/Fi%D1%97nka_Feb_2023.png)
+![FIЇNKA](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fi%D1%97nka_Feb_2023.png/400px-Fi%D1%97nka_Feb_2023.png)
 
-- 📍 **Birthplace:** Nadvirna
-- 📍 **Current residence:** Ivano-Frankivsk region
-- 📊 **Activity level:** Medium
-- 🎧 **Top song:** *Афини*
+- 📍 **Місце народження:** Надвірна
+- 📍 **Поточне місце проживання:** Івано-Франківська область
+- 📊 **Рівень активності:** Середній
+- 🎧 **Топ-пісня:** *Афини*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/FIINKA)
 - [Apple Music](https://music.apple.com/search?term=FIINKA)
@@ -129,14 +129,14 @@
 
 ### Olya Polyakova
 
-![Olya Polyakova](https://upload.wikimedia.org/wikipedia/commons/5/59/2022_Olya_Polyakova_-_by_2eight_-_ZSC6310_%28cropped%29.jpg)
+![Olya Polyakova](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2022_Olya_Polyakova_-_by_2eight_-_ZSC6310_%28cropped%29.jpg/400px-2022_Olya_Polyakova_-_by_2eight_-_ZSC6310_%28cropped%29.jpg)
 
-- 📍 **Birthplace:** Vinnytsia
-- 📍 **Current residence:** Kyiv
-- 📊 **Activity level:** Medium
-- 🎧 **Top song:** *Королева ночі*
+- 📍 **Місце народження:** Вінниця
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** Середній
+- 🎧 **Топ-пісня:** *Королева ночі*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/Polyakova)
 - [Apple Music](https://music.apple.com/search?term=Polyakova)
@@ -146,14 +146,14 @@
 
 ### Zlata Ognevich
 
-![Zlata Ognevich](https://upload.wikimedia.org/wikipedia/commons/4/45/Zlata_Ognevich_March_2020.jpg)
+![Zlata Ognevich](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zlata_Ognevich_March_2020.jpg/400px-Zlata_Ognevich_March_2020.jpg)
 
-- 📍 **Birthplace:** Murmansk
-- 📍 **Current residence:** Kyiv
-- 📊 **Activity level:** Medium
-- 🎧 **Top song:** *Gravity*
+- 📍 **Місце народження:** Мурманськ
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** Середній
+- 🎧 **Топ-пісня:** *Gravity*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/Zlata%20Ognevich)
 - [Apple Music](https://music.apple.com/search?term=Zlata%20Ognevich)
@@ -163,14 +163,14 @@
 
 ### MAMARIKA
 
-![MAMARIKA](https://yt3.googleusercontent.com/PP6jWZl-kHQBqXFNV_3UGRBCRzkctt_Oy-2OWE8ShrJxQjruFeDEV2ULjv6xhNgHmW3hCdIViw=s900-c-k-c0x00ffffff-no-rj)
+![MAMARIKA](https://yt3.googleusercontent.com/PP6jWZl-kHQBqXFNV_3UGRBCRzkctt_Oy-2OWE8ShrJxQjruFeDEV2ULjv6xhNgHmW3hCdIViw=s400-c-k-c0x00ffffff-no-rj)
 
-- 📍 **Birthplace:** Chervonohrad
-- 📍 **Current residence:** Kyiv
-- 📊 **Activity level:** Medium
-- 🎧 **Top song:** *Люди*
+- 📍 **Місце народження:** Червоноград
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** Середній
+- 🎧 **Топ-пісня:** *Люди*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/MAMARIKA)
 - [Apple Music](https://music.apple.com/search?term=MAMARIKA)
@@ -178,18 +178,18 @@
 
 ---
 
-## 🎧 Male artists
+## 🎧 Співаки та гурти
 
 ### YAKTAK
 
-![YAKTAK](https://upload.wikimedia.org/wikipedia/commons/2/2a/%D0%A1%D0%BF%D1%96%D0%B2%D0%B0%D0%BA_YAKTAK_%28%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%B0%D1%80%D0%BF%D1%83%D0%BA%29.jpg)
+![YAKTAK](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%D0%A1%D0%BF%D1%96%D0%B2%D0%B0%D0%BA_YAKTAK_%28%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%B0%D1%80%D0%BF%D1%83%D0%BA%29.jpg/400px-%D0%A1%D0%BF%D1%96%D0%B2%D0%B0%D0%BA_YAKTAK_%28%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%B0%D1%80%D0%BF%D1%83%D0%BA%29.jpg)
 
-- 📍 **Birthplace:** Volyn region
-- 📍 **Current residence:** Not publicly disclosed
-- 📊 **Activity level:** High
-- 🎧 **Top song:** *Порічка*
+- 📍 **Місце народження:** Волинська область
+- 📍 **Поточне місце проживання:** Публічно не розкривається
+- 📊 **Рівень активності:** Високий
+- 🎧 **Топ-пісня:** *Порічка*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/YAKTAK)
 - [Apple Music](https://music.apple.com/search?term=YAKTAK)
@@ -199,14 +199,14 @@
 
 ### Artem Pivovarov
 
-![Artem Pivovarov](https://upload.wikimedia.org/wikipedia/commons/0/06/Artem_Pyvovarov%2C_UNICEF_Youth_Awards_Ceremony_%28cropped_02%29.jpg)
+![Artem Pivovarov](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Artem_Pyvovarov%2C_UNICEF_Youth_Awards_Ceremony_%28cropped_02%29.jpg/400px-Artem_Pyvovarov%2C_UNICEF_Youth_Awards_Ceremony_%28cropped_02%29.jpg)
 
-- 📍 **Birthplace:** Vovchansk
-- 📍 **Current residence:** Kyiv
-- 📊 **Activity level:** TOP
-- 🎧 **Top song:** *Дежавю*
+- 📍 **Місце народження:** Вовчанськ
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** ТОП
+- 🎧 **Топ-пісня:** *Дежавю*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/Pivovarov)
 - [Apple Music](https://music.apple.com/search?term=Pivovarov)
@@ -216,14 +216,14 @@
 
 ### MÉLOVIN
 
-![MÉLOVIN](https://upload.wikimedia.org/wikipedia/commons/a/a4/M%C3%A9lovin_%283%29_20180510_EuroVisionary_%28cropped%29.jpg)
+![MÉLOVIN](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/M%C3%A9lovin_%283%29_20180510_EuroVisionary_%28cropped%29.jpg/400px-M%C3%A9lovin_%283%29_20180510_EuroVisionary_%28cropped%29.jpg)
 
-- 📍 **Birthplace:** Odesa
-- 📍 **Current residence:** Kyiv
-- 📊 **Activity level:** Medium
-- 🎧 **Top song:** *Under the Ladder*
+- 📍 **Місце народження:** Одеса
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** Середній
+- 🎧 **Топ-пісня:** *Under the Ladder*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/Melovin)
 - [Apple Music](https://music.apple.com/search?term=Melovin)
@@ -233,14 +233,14 @@
 
 ### SKOFKA
 
-![SKOFKA](https://yt3.googleusercontent.com/1-27_ExJRIQT07y5G3fRK2dGDva30Wsa-_uV7Y_TOgpXeK4UrCmJeLuNHSEP2thCdcpoWwwrLVY=s900-c-k-c0x00ffffff-no-rj)
+![SKOFKA](https://yt3.googleusercontent.com/1-27_ExJRIQT07y5G3fRK2dGDva30Wsa-_uV7Y_TOgpXeK4UrCmJeLuNHSEP2thCdcpoWwwrLVY=s400-c-k-c0x00ffffff-no-rj)
 
-- 📍 **Birthplace:** Rivne
-- 📍 **Current residence:** Not publicly disclosed
-- 📊 **Activity level:** High
-- 🎧 **Top song:** *Чути гімн*
+- 📍 **Місце народження:** Рівне
+- 📍 **Поточне місце проживання:** Публічно не розкривається
+- 📊 **Рівень активності:** Високий
+- 🎧 **Топ-пісня:** *Чути гімн*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/SKOFKA)
 - [Apple Music](https://music.apple.com/search?term=SKOFKA)
@@ -250,14 +250,14 @@
 
 ### Kalush Orchestra
 
-![Kalush Orchestra](https://upload.wikimedia.org/wikipedia/commons/3/39/Eurovision_2022_-_Semi-final_1_-_Ukraine_-_Kalush_Orchestra_%2802%29.jpg)
+![Kalush Orchestra](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Eurovision_2022_-_Semi-final_1_-_Ukraine_-_Kalush_Orchestra_%2802%29.jpg/400px-Eurovision_2022_-_Semi-final_1_-_Ukraine_-_Kalush_Orchestra_%2802%29.jpg)
 
-- 📍 **Founded in:** Kalush
-- 📍 **Base:** Kyiv
-- 📊 **Activity level:** TOP
-- 🎧 **Top song:** *Stefania*
+- 📍 **Засновано в:** Калуші
+- 📍 **База:** Київ
+- 📊 **Рівень активності:** ТОП
+- 🎧 **Топ-пісня:** *Stefania*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/Kalush)
 - [Apple Music](https://music.apple.com/search?term=Kalush)
@@ -267,14 +267,14 @@
 
 ### Okean Elzy
 
-![Okean Elzy](https://upload.wikimedia.org/wikipedia/commons/9/90/OKEAN_TITULNI_2016.jpg)
+![Okean Elzy](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/OKEAN_TITULNI_2016.jpg/400px-OKEAN_TITULNI_2016.jpg)
 
-- 📍 **Founded in:** Lviv
-- 📍 **Base:** Kyiv
-- 📊 **Activity level:** TOP
-- 🎧 **Top song:** *Обійми*
+- 📍 **Засновано в:** Львові
+- 📍 **База:** Київ
+- 📊 **Рівень активності:** ТОП
+- 🎧 **Топ-пісня:** *Обійми*
 
-**Listen**
+**Слухати**
 
 - [Spotify](https://open.spotify.com/search/Okean%20Elzy)
 - [Apple Music](https://music.apple.com/search?term=Okean%20Elzy)
@@ -282,11 +282,27 @@
 
 ---
 
-## 🔥 Where to track concerts
+## 🇵🇱 Найближчий концерт у Варшаві (з цієї добірки)
 
-- [**Karabas**](https://www.karabas.com/) — major UA ticketing *(site may block automated probes; opens in a normal browser)*
-- [**Kontramarka**](https://kontramarka.ua/) — listings + tickets
-- [**mticket**](https://mticket.ua/) — mobile-first ticketing
-- [**Instagram**](https://www.instagram.com/) — often the fastest place for tour drops and story-first announcements
+За [афішею mticket.pl](https://mticket.pl/en/warszawa/pulse-of-nation-3440.html) (станом на квітень 2026) **найближча до сьогодні** подія у **Варшаві**, де беруть участь артисти з цього списку, — фестиваль **PULSE OF NATION fest**:
 
-🎧 *Listening links are labeled, not pasted raw — easier to skim on mobile and in GitHub.*
+| | |
+| --- | --- |
+| **Дата** | субота, **22 серпня 2026** |
+| **Місце** | **Letnia Scena Progresja**, вул. Fort Wola 22, Варшава |
+| **Хто з добірки** | **Artem Pivovarov** (хедлайнер), **Jerry Heil**; інші виконавці — у повному лайнапі на сторінці події |
+
+**Квитки та деталі:** [mticket.pl (EN)](https://mticket.pl/en/warszawa/pulse-of-nation-3440.html) · [mticket.pl (PL)](https://mticket.pl/pl/warszawa/pulse-of-nation-3440.html)
+
+*Примітка: дати, час і склад сцени можуть змінитися — перед покупкою квитка перевірте актуальну сторінку квиткового сервісу.*
+
+---
+
+## 🔥 Де відстежувати концерти
+
+- [**Karabas**](https://www.karabas.com/) — великий український квитковий сервіс *(інколи блокує автоматичні перевірки, у звичайному браузері відкривається)*
+- [**Kontramarka**](https://kontramarka.ua/) — афіша + квитки
+- [**mticket**](https://mticket.ua/) — мобільний квитковий сервіс
+- [**Instagram**](https://www.instagram.com/) — часто найшвидше джерело анонсів турів та сторіз
+
+🎧 *Посилання на прослуховування підписані, а не вставлені сирими URL — так зручніше читати в GitHub і з телефона.*
