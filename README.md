@@ -1,5 +1,9 @@
 # Ukrainian artists · 2026 roster
 
+<!-- GitHub → Settings → General → About → Description (paste): Curated 2026 roster of Ukrainian artists: activity, concerts, top tracks, verified Spotify / Apple Music / YouTube links, and UA + global show trackers. -->
+
+**Repository description:** Curated **2026** roster of Ukrainian artists — activity levels, upcoming concerts (where known), flagship tracks, verified Spotify / Apple Music / YouTube links, and practical resources to track live shows in Ukraine and abroad.
+
 🎤 **Signal, not noise.** A scan-first sheet for who’s hot, where they’re playing, and one-tap listening.
 
 📊 **What this is:** a living snapshot (festivals, tours, and radio gravity shift fast — verify dates before you buy).
