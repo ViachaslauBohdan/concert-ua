@@ -44,7 +44,7 @@
 
 ### DOROFEEVA
 
-![DOROFEEVA](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/%D0%9D%D0%B0%D0%B4%D1%96%D1%8F_%D0%94%D0%BE%D1%80%D0%BE%D1%84%D1%94%D1%94%D0%B2%D0%B0.jpg/400px-%D0%9D%D0%B0%D0%B4%D1%96%D1%8F_%D0%94%D0%BE%D1%80%D0%BE%D1%84%D1%94%D1%94%D0%B2%D0%B0.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/%D0%9D%D0%B0%D0%B4%D1%96%D1%8F_%D0%94%D0%BE%D1%80%D0%BE%D1%84%D1%94%D1%94%D0%B2%D0%B0.jpg" alt="DOROFEEVA" width="400" />
 
 - 📍 **Місце народження:** Сімферополь, Україна
 - 📍 **Поточне місце проживання:** Київ
@@ -61,7 +61,7 @@
 
 ### Tina Karol
 
-![Tina Karol](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fumio_Kishida_and_Tina_Karol_at_the_Japanese_Kantei_in_2022_%283%29_%28cropped%29.jpg/400px-Fumio_Kishida_and_Tina_Karol_at_the_Japanese_Kantei_in_2022_%283%29_%28cropped%29.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Fumio_Kishida_and_Tina_Karol_at_the_Japanese_Kantei_in_2022_%283%29_%28cropped%29.jpg" alt="Tina Karol" width="400" />
 
 - 📍 **Місце народження:** Магадан
 - 📍 **Поточне місце проживання:** Київ
