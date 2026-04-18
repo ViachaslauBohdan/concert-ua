@@ -20,8 +20,9 @@
 **Слухати**
 
 - [Spotify](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr)
-- [Apple Music](https://music.apple.com/search?term=Jerry%20Heil)
+- [Apple Music](https://music.apple.com/ua/artist/jerry-heil/1300248034)
 - [YouTube](https://www.youtube.com/@JerryHeil)
+- [YouTube Music](https://music.youtube.com/channel/UC3mHMhEE-YOeTAaS02OhCnw)
 
 ---
 
@@ -37,8 +38,9 @@
 **Слухати**
 
 - [Spotify](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8)
-- [Apple Music](https://music.apple.com/search?term=alyona%20alyona)
+- [Apple Music](https://music.apple.com/ua/artist/alyona-alyona/1375484682)
 - [YouTube](https://www.youtube.com/@alyonaalyona)
+- [YouTube Music](https://music.youtube.com/channel/UCX74kjhVcdu05Dm54BnQgyw)
 
 ---
 
@@ -53,9 +55,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/Dorofeeva)
-- [Apple Music](https://music.apple.com/search?term=Dorofeeva)
-- [YouTube](https://www.youtube.com/@DOROFEEVA)
+- [Spotify](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM)
+- [Apple Music](https://music.apple.com/ua/artist/dorofeeva/1537571533)
+- [YouTube](https://www.youtube.com/@nadyadorofeeva)
+- [YouTube Music](https://music.youtube.com/channel/UCs78uSojU0tW_rzlrRqOUkg)
 
 ---
 
@@ -70,9 +73,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/Tina%20Karol)
-- [Apple Music](https://music.apple.com/search?term=Tina%20Karol)
+- [Spotify](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r)
+- [Apple Music](https://music.apple.com/ua/artist/tina-karol/763467719)
 - [YouTube](https://www.youtube.com/@tinakarol)
+- [YouTube Music](https://music.youtube.com/channel/UCoV61u5mQvubNi7hJibZh5w)
 
 ---
 
@@ -87,9 +91,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/Anna%20Trincher)
-- [Apple Music](https://music.apple.com/search?term=Anna%20Trincher)
+- [Spotify](https://open.spotify.com/artist/0MVoWheo7W8PRC81wIv3GN)
+- [Apple Music](https://music.apple.com/ua/artist/anna-trincher/1393133086)
 - [YouTube](https://www.youtube.com/@AnnaTrincher)
+- [YouTube Music](https://music.youtube.com/channel/UCk9qO_FlPd0zKv66mgVdQ8Q)
 
 ---
 
@@ -104,9 +109,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/KOLA)
-- [Apple Music](https://music.apple.com/search?term=KOLA)
-- [YouTube](https://www.youtube.com/@KOLAmusic)
+- [Spotify](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq)
+- [Apple Music](https://music.apple.com/ua/artist/kola/1446348047)
+- [YouTube](https://www.youtube.com/@KOLAofficial)
+- [YouTube Music](https://music.youtube.com/channel/UC2Oou3cBAjTbHbkcMahCOZA)
 
 ---
 
@@ -121,9 +127,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/FIINKA)
-- [Apple Music](https://music.apple.com/search?term=FIINKA)
-- [YouTube](https://www.youtube.com/@fiinka)
+- [Spotify](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u)
+- [Apple Music](https://music.apple.com/ua/artist/fijka/1484563942)
+- [YouTube](https://www.youtube.com/@Fiinka)
+- [YouTube Music](https://music.youtube.com/channel/UC1nXh4FLYVoaAueFmDoYcnw)
 
 ---
 
@@ -138,9 +145,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/Polyakova)
-- [Apple Music](https://music.apple.com/search?term=Polyakova)
-- [YouTube](https://www.youtube.com/@polyakova)
+- [Spotify](https://open.spotify.com/artist/5hpfP3fMcBFgQyTEpo19tl)
+- [Apple Music](https://music.apple.com/ua/artist/olya-polyakova/404963364)
+- [YouTube](https://www.youtube.com/@PolyakovaOfficial)
+- [YouTube Music](https://music.youtube.com/channel/UCBCPzW3C8Oqhlgdyaejnk1w)
 
 ---
 
@@ -155,9 +163,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/Zlata%20Ognevich)
-- [Apple Music](https://music.apple.com/search?term=Zlata%20Ognevich)
+- [Spotify](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF)
+- [Apple Music](https://music.apple.com/ua/artist/zlata-ognevich/388859753)
 - [YouTube](https://www.youtube.com/@zlataognevich)
+- [YouTube Music](https://music.youtube.com/channel/UCfwnByYopupLxtjuQhU4flQ)
 
 ---
 
@@ -172,9 +181,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/MAMARIKA)
-- [Apple Music](https://music.apple.com/search?term=MAMARIKA)
+- [Spotify](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS)
+- [Apple Music](https://music.apple.com/ua/artist/mamarika/1132677858)
 - [YouTube](https://www.youtube.com/@mamarika)
+- [YouTube Music](https://music.youtube.com/channel/UC5A0PgkH6vndkzWBBUnRuxw)
 
 ---
 
@@ -191,9 +201,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/YAKTAK)
-- [Apple Music](https://music.apple.com/search?term=YAKTAK)
-- [YouTube](https://www.youtube.com/@yaktak)
+- [Spotify](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog)
+- [Apple Music](https://music.apple.com/ua/artist/yaktak/1613225105)
+- [YouTube](https://www.youtube.com/@yaktak_official)
+- [YouTube Music](https://music.youtube.com/channel/UCMMs0OvFlKwAh___uKNoB1w)
 
 ---
 
@@ -208,9 +219,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/Pivovarov)
-- [Apple Music](https://music.apple.com/search?term=Pivovarov)
+- [Spotify](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW)
+- [Apple Music](https://music.apple.com/ua/artist/artem-pivovarov/636457323)
 - [YouTube](https://www.youtube.com/@pivovarovmusic)
+- [YouTube Music](https://music.youtube.com/channel/UC0epWL_U_mWZtLJnWmutUyw)
 
 ---
 
@@ -225,9 +237,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/Melovin)
-- [Apple Music](https://music.apple.com/search?term=Melovin)
+- [Spotify](https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL)
+- [Apple Music](https://music.apple.com/ua/artist/melovin/1100402102)
 - [YouTube](https://www.youtube.com/@melovin_official)
+- [YouTube Music](https://music.youtube.com/channel/UC_XeTPb-8McRckJ4qVM5Rdg)
 
 ---
 
@@ -242,9 +255,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/SKOFKA)
-- [Apple Music](https://music.apple.com/search?term=SKOFKA)
+- [Spotify](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0)
+- [Apple Music](https://music.apple.com/ua/artist/skofka/1537878710)
 - [YouTube](https://www.youtube.com/@skofka)
+- [YouTube Music](https://music.youtube.com/channel/UC_SodCO9fugYK12zCJYsn0A)
 
 ---
 
@@ -259,9 +273,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/Kalush)
-- [Apple Music](https://music.apple.com/search?term=Kalush)
-- [YouTube](https://www.youtube.com/@kalush)
+- [Spotify](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf)
+- [Apple Music](https://music.apple.com/ua/artist/kalush-orchestra/1616188070)
+- [YouTube](https://www.youtube.com/@kalush.official)
+- [YouTube Music](https://music.youtube.com/channel/UCWJULrY4qhbj0pqnNOrYETg)
 
 ---
 
@@ -276,9 +291,10 @@
 
 **Слухати**
 
-- [Spotify](https://open.spotify.com/search/Okean%20Elzy)
-- [Apple Music](https://music.apple.com/search?term=Okean%20Elzy)
+- [Spotify](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS)
+- [Apple Music](https://music.apple.com/ua/artist/okean-elzy/362306254)
 - [YouTube](https://www.youtube.com/@okeanelzyofficial)
+- [YouTube Music](https://music.youtube.com/channel/UCjJ-oj2aJTINILYLDv2MFEQ)
 
 ---
 
@@ -317,4 +333,4 @@
 - [**mticket**](https://mticket.ua/) — мобільний квитковий сервіс
 - [**Instagram**](https://www.instagram.com/) — часто найшвидше джерело анонсів турів та сторіз
 
-🎧 *Посилання на прослуховування підписані, а не вставлені сирими URL — так зручніше читати в GitHub і з телефона.*
+🎧 *Посилання ведуть на профілі виконавців (Spotify, Apple Music Україна, YouTube та YouTube Music), а не на сирі пошукові запити — так зручніше читати в GitHub і з телефона.*
