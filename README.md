@@ -78,7 +78,7 @@
 
 ### Anna Trincher
 
-![Anna Trincher](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anna_Trincher.jpg/400px-Anna_Trincher.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Anna_Trincher.jpg" alt="Anna Trincher" width="400" />
 
 - 📍 **Місце народження:** Київ
 - 📍 **Поточне місце проживання:** Київ
@@ -95,7 +95,7 @@
 
 ### KOLA
 
-![KOLA](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kola2024.jpg/400px-Kola2024.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Kola2024.jpg" alt="KOLA" width="400" />
 
 - 📍 **Місце народження:** Харків
 - 📍 **Поточне місце проживання:** Київ
