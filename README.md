@@ -282,19 +282,33 @@
 
 ---
 
-## 🇵🇱 Найближчий концерт у Варшаві (з цієї добірки)
+## 🎫 Найближчі концерти з добірки (перевірено на **mticket**)
 
-За [афішею mticket.pl](https://mticket.pl/en/warszawa/pulse-of-nation-3440.html) (станом на квітень 2026) **найближча до сьогодні** подія у **Варшаві**, де беруть участь артисти з цього списку, — фестиваль **PULSE OF NATION fest**:
+Нижче — **офіційні сторінки продажу** [mticket.eu](https://mticket.eu/en) / [mticket.pl](https://mticket.pl/en). Час, місце й ціну взято з опублікованої на сторінці розмітки **schema.org** (`Event`, `AggregateOffer`, `Place`) станом на перевірку; перед купівлею відкрийте посилання ще раз.
+
+### Прага — *PULSE OF NATION fest* (найближча дата в цьому турі)
 
 | | |
 | --- | --- |
-| **Дата** | субота, **22 серпня 2026** |
+| **Дата й час** | **21 серпня 2026**, **15:00 — 17:00** *(у розмітці: `2026-08-21T15:00:00+03:00` → `2026-08-21T17:00:00+03:00`)* |
+| **Місце** | **Areál7**, Za Elektrárnou 20, 170 00 Praha 7-Holešovice |
+| **Ціна** | від **1400 CZK** *(lowPrice / highPrice на сторінці — однакові)* |
+| **З добірки (за текстом афіші)** | хедлайнер **Artem Pivovarov**, також **Jerry Heil**; у анонсі також згадані DREVO, Sadsvit, Khrystyna Soloviy |
+
+**Квитки:** [mticket.eu — Прага (EN)](https://mticket.eu/en/prague/freeland-fest-2026-3393.html)
+
+---
+
+### Варшава — *PULSE OF NATION fest*
+
+| | |
+| --- | --- |
+| **Дата й час** | **22 серпня 2026** (субота), **15:00 — 17:00** *(у розмітці: `2026-08-22T15:00:00+03:00` → `2026-08-22T17:00:00+03:00`)* |
 | **Місце** | **Letnia Scena Progresja**, вул. Fort Wola 22, Варшава |
-| **Хто з добірки** | **Artem Pivovarov** (хедлайнер), **Jerry Heil**; інші виконавці — у повному лайнапі на сторінці події |
+| **Ціна** | від **249 PLN** |
+| **З добірки (за текстом афіші)** | хедлайнер **Artem Pivovarov**, також **Jerry Heil**; у анонсі також згадані DREVO, Sadsvit, Khrystyna Soloviy |
 
-**Квитки та деталі:** [mticket.pl (EN)](https://mticket.pl/en/warszawa/pulse-of-nation-3440.html) · [mticket.pl (PL)](https://mticket.pl/pl/warszawa/pulse-of-nation-3440.html)
-
-*Примітка: дати, час і склад сцени можуть змінитися — перед покупкою квитка перевірте актуальну сторінку квиткового сервісу.*
+**Квитки:** [mticket.pl (UK)](https://mticket.pl/uk/warszawa/pulse-of-nation-3440.html) · [EN](https://mticket.pl/en/warszawa/pulse-of-nation-3440.html) · [PL](https://mticket.pl/pl/warszawa/pulse-of-nation-3440.html)
 
 ---
 
@@ -304,7 +318,8 @@
 
 | Місто | Найближча дата | Від | Квитки |
 | --- | --- | --- | --- |
-| **Варшава** | 22 серпня 2026 (субота) — *PULSE OF NATION fest* | від 249 zł | [mticket.pl (UK)](https://mticket.pl/uk/warszawa/pulse-of-nation-3440.html) · [EN](https://mticket.pl/en/warszawa/pulse-of-nation-3440.html) · [PL](https://mticket.pl/pl/warszawa/pulse-of-nation-3440.html) |
+| **Прага** | 21 серпня 2026 — *PULSE OF NATION fest* | від 1400 Kč | [mticket.eu (EN)](https://mticket.eu/en/prague/freeland-fest-2026-3393.html) |
+| **Варшава** | 22 серпня 2026 — *PULSE OF NATION fest* | від 249 zł | [mticket.pl (UK)](https://mticket.pl/uk/warszawa/pulse-of-nation-3440.html) · [EN](https://mticket.pl/en/warszawa/pulse-of-nation-3440.html) · [PL](https://mticket.pl/pl/warszawa/pulse-of-nation-3440.html) |
 
 *Перед оплатою ще раз відкрийте посилання: дата, зал і ціни можуть оновитися на сторінці організатора.*
 
