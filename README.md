@@ -214,6 +214,23 @@
 
 ---
 
+### DANTES
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%94%D0%B0%D0%BD%D1%82%D0%B5%D1%81.jpg" alt="DANTES" width="400" />
+
+- 📍 **Місце народження:** Харків *(Володимир Дантес; сценічне ім’я **DANTES**.)*
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** Високий — сольна сцена, ТБ і радіо
+- 🎧 **Топ-пісня:** *Чуєш*
+
+**Слухати**
+
+- [Spotify](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E)
+- [Apple Music](https://music.apple.com/ua/artist/volodymyr-dantes/1524675097)
+- [YouTube Music](https://music.youtube.com/channel/UCmiHEkrILPJlgh4EKhfjWKQ)
+
+---
+
 ### MONATIK
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/President_took_part_in_the_festive_Parade_of_Troops_on_the_occasion_of_the_30th_anniversary_of_Ukraine%27s_independence._%2851716328653%29_%28cropped%29.jpg" alt="MONATIK" width="400" />
