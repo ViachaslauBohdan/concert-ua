@@ -231,6 +231,23 @@
 
 ---
 
+### DREVO
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/DREVO1.jpg" alt="DREVO" width="400" />
+
+- 📍 **Місце народження:** Вараш *(Максим Дерев’янчук; сценічне ім’я **DREVO**.)*
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** ТОП — Україна + Європа *(участь у нацвідборі на «Євробачення», тури)*
+- 🎧 **Топ-пісня:** *Смарагдове небо*
+
+**Слухати**
+
+- [Spotify](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg)
+- [Apple Music](https://music.apple.com/ua/artist/drevo/1791064184)
+- [YouTube Music](https://music.youtube.com/channel/UCOnrg6DvxcglGl0_GlVb02g)
+
+---
+
 ### MONATIK
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/President_took_part_in_the_festive_Parade_of_Troops_on_the_occasion_of_the_30th_anniversary_of_Ukraine%27s_independence._%2851716328653%29_%28cropped%29.jpg" alt="MONATIK" width="400" />
