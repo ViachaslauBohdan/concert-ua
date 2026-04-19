@@ -110,6 +110,23 @@
 
 ---
 
+### SKYLERR
+
+<img src="https://cdn-images.dzcdn.net/images/artist/3b73138360f7c870fc0bf47a4604a6b9/1000x1000-000000-80-0-0.jpg" alt="SKYLERR" width="400" />
+
+- 📍 **Місце народження:** Білгород-Дністровський *(Валерія Кудрявець; офіційна назва профілю в стримінгах — **SKYLERR**.)*
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** Високий — чарти, радіо, нацвідбір
+- 🎧 **Топ-пісня:** *Падав туман*
+
+**Слухати**
+
+- [Spotify](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg)
+- [Apple Music](https://music.apple.com/ua/artist/skylerr/1626798151)
+- [YouTube Music](https://music.youtube.com/channel/UC2M_s4KnfJ1XC0EC6bb_cKw)
+
+---
+
 ### FIЇNKA
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Fi%D1%97nka_Feb_2023.png" alt="FIЇNKA" width="400" />
