@@ -214,6 +214,23 @@
 
 ---
 
+### MONATIK
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/President_took_part_in_the_festive_Parade_of_Troops_on_the_occasion_of_the_30th_anniversary_of_Ukraine%27s_independence._%2851716328653%29_%28cropped%29.jpg" alt="MONATIK" width="400" />
+
+- 📍 **Місце народження:** Канів
+- 📍 **Поточне місце проживання:** Київ
+- 📊 **Рівень активності:** ТОП
+- 🎧 **Топ-пісня:** *Крутиться*
+
+**Слухати**
+
+- [Spotify](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q)
+- [Apple Music](https://music.apple.com/ua/artist/monatik/667456186)
+- [YouTube Music](https://music.youtube.com/channel/UCYfMttB5X1awKZFDZIL8uVw)
+
+---
+
 ### MÉLOVIN
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/M%C3%A9lovin_%283%29_20180510_EuroVisionary_%28cropped%29.jpg" alt="MÉLOVIN" width="400" />
