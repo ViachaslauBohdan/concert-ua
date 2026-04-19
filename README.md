@@ -299,6 +299,29 @@
 
 ---
 
+## 🇺🇦 Топ-10 українських треків зараз (за стрімами в Україні)
+
+**Що це за список.** Узятий **щоденний чарт Spotify в Україні** станом на **17 квітня 2026** ([kworb.net — Spotify Daily Chart Ukraine](https://kworb.net/spotify/country/ua_daily.html)): зверху вниз по чарту відібрані **перші 10 треків, де головний виконавець — з України** (міжнародні хіти на кшталт Dominic Fike, Tame Impala тощо пропущені). Порядок відповідає **першій появі** такого треку в цьому зрізі чарту.
+
+**YouTube.** У колонці «YouTube» — посилання на **офіційне відео** на каналі виконавця / лейблу; якщо окремого кліпу немає, стоїть **аудіо на каналі «… — Topic»** (офіційна подача через YouTube).
+
+| № | Виконавець | Трек | YouTube |
+| ---: | --- | --- | --- |
+| 1 | madk1d, VILLIAN | *8 миля* | [YouTube](https://www.youtube.com/watch?v=N9ZjkSrsZRA) |
+| 2 | Nikow | *розмова з містом* | [YouTube](https://www.youtube.com/watch?v=aoYPTbcfsIk) |
+| 3 | DREVO | *Смарагдове небо* | [YouTube](https://www.youtube.com/watch?v=PvVsdj5hE_0) |
+| 4 | Nikow | *якщо це не по-справжньому* | [YouTube](https://www.youtube.com/watch?v=MJQdhkMvCng) |
+| 5 | Jerry Heil, YARMAK | *З якого ти поверху неба?* | [YouTube](https://www.youtube.com/watch?v=Nm6ENxo40ik) |
+| 6 | Domiy | *На порозі* | [YouTube](https://www.youtube.com/watch?v=1yeZf9BdclE) |
+| 7 | DREVO | *Де би де би* | [YouTube](https://www.youtube.com/watch?v=BnYLZcLvMUo) |
+| 8 | IVAN LIULENOV, DAMNITSKYI | *ШОВКОВИЦЯ* | [YouTube](https://www.youtube.com/watch?v=uTKh_Gm3Shw) |
+| 9 | Max Barskih | *Не складається* | [YouTube](https://www.youtube.com/watch?v=y0HbYiVdKQA) |
+| 10 | Victoria Niro | *Питань нема* | [YouTube](https://www.youtube.com/watch?v=N7FEo6t6w5w) |
+
+Чарт змінюється щодня; для порівняння можна відкрити плейлист [**Top 50 — Ukraine**](https://open.spotify.com/playlist/37i9dQZEVXbKkidEfWYRuD) у Spotify.
+
+---
+
 ## 🎫 Найближчі концерти з добірки (перевірено на **mticket**)
 
 Нижче — **офіційні сторінки продажу** [mticket.eu](https://mticket.eu/en) / [mticket.pl](https://mticket.pl/en). Час, місце й ціну взято з опублікованої на сторінці розмітки **schema.org** (`Event`, `AggregateOffer`, `Place`) станом на перевірку; перед купівлею відкрийте посилання ще раз.
